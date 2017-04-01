@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hngu/hackadventures/issues"
   },
-  "homepage": "https://github.com/hngu/hackadventures#readme"
+  "homepage": "https://github.com/hngu/hackadventures#readme",
+  "devDependencies": {
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.4.2"
+  }
 }
